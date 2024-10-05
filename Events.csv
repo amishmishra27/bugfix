@@ -1,0 +1,155 @@
+Event_,Zone,Start_Date,End_Date,Fatalities,Injured
+Bushfire - Victoria,Victoria,1/01/2006,,4,6
+"Bushfire - Black Saturday, Victoria",Victoria,7/02/2009,8/02/2009,173,414
+Bushfire - Great Divide Complex ,Victoria,1/12/2006,7/02/2007,1,1400
+Bushfire - Victoria,Victoria,31/12/2005,31/01/2006,4,6
+Bushfire - Eyre Peninsula,South Australia,10/01/2005,12/01/2005,9,110
+"Bushfire � Mt Ku-ring-gai, New South Wales 2000",New South Wales,8/06/2000,8/06/2000,4,3
+Bushfire - Dandenong Ranges and Mornington Peninsula,Victoria,19/01/1997,21/01/1997,3,40
+Bushfire - Cootamundra and Deniliquin Regions,New South Wales,17/01/1987,20/01/1987,3,20
+Bushfire - Lara and Melbourne Fringe,Victoria,8/01/1969,9/01/1969,23,100
+Bushfire - Wandilo,South Australia,5/04/1958,6/04/1958,8,3
+"Criminal Act - Bourke Street Mall Incident, 2017",Victoria,20/01/2017,,6,37
+Criminal Act - Port Arthur Shooting Massacre,Tasmania,28/04/1996,28/04/1996,35,21
+"Criminal - Terrigal Shootings, Sydney 1992 ",New South Wales,27/10/1992,,6,1
+Criminal Act - Kings Cross Hostel,New South Wales,17/09/1989,17/09/1989,6,18
+Criminal Act - Queen Street Shooting,Victoria,8/12/1987,8/12/1987,9,5
+Criminal Act - Hoddle Street Shooting,Victoria,9/08/1987,9/08/1987,7,19
+Criminal Act - Sydney Nursing Home,New South Wales,29/04/1981,29/04/1981,16,51
+Criminal Act - Savoy Hotel Arson,New South Wales,25/12/1975,25/12/1975,15,22
+Cyclone George,Western Australia,3/03/2007,8/03/2007,3,20
+Cyclone Justin,Queensland,6/03/1997,24/03/1997,2,20
+Cyclone Hazel,Western Australia,1/03/1979,1/03/1979,15,5
+Cyclone Tracy,Northern Territory,25/12/1974,25/12/1974,71,650
+Cyclone Althea,Queensland,24/12/1971,27/12/1971,3,25
+"Cyclone - Broome, Lacepede Islands",Western Australia,25/03/1935,,142,1
+Earthquake - Newcastle,New South Wales,28/12/1989,29/12/1989,13,160
+Health - South East Queensland Heatwave,Queensland,20/01/2000,24/01/2000,22,350
+Health -  Oodnadatta Heatwave,South Australia,31/12/1959,3/01/1960,13,18
+Health - Melbourne and Northern Victoria Legionnaires' Disease Outbreak,Victoria,11/04/2000,27/04/2000,4,131
+Health - Food Poisoning Outbreak,South Australia,1/11/1994,1/02/1995,1,22
+"Flood - Black February. Brisbane, Ipswich and Maryborough",Queensland,01/02/1893,15/02/1893,35,300
+Flood - Katherine Floods,Northern Territory,25/01/1998,2/02/1998,3,30
+Flood - Boonah,Queensland,7/02/1991,11/02/1991,3,10
+Flood - Dalby,Queensland,1/02/1981,1/02/1981,1,5
+Flood - Brisbane River,Queensland,25/01/1974,29/01/1974,13,300
+Flood - Melbourne and Victoria ,Victoria,29/11/1934,1/12/1934,36,400
+Industrial - Longford Gas explision,Victoria,25/09/1998,14/10/1998,2,8
+Industrial - Bulli Mine,New South Wales,23/03/1887,23/03/1887,81,3
+Industrial - Broken Hill Mine Collapse,New South Wales,18/07/1895,18/07/1895,9,1
+"Swanston Street wall collapse, 2013",Victoria,29/03/2013,,3,8
+Industrial - Gladstone Factory Explosion,South Australia,9/05/2006,9/05/2006,3,2
+Industrial - Beaconsfield Mine,Tasmania,25/04/2006,9/05/2006,1,2
+Industrial -Kalgoorlie Mine Collapse,Western Australia,26/06/2000,26/06/2000,3,8
+Industrial - Hunter Valley Silo Explosion,New South Wales,6/12/1999,6/12/1999,3,1
+"Industrial - Boiling liquid expanding vapour explosion (BLEVE), Cairns ",Queensland,1/08/1987,1/08/1987,1,27
+Industrial - Mount St Canice,Tasmania,5/09/1974,5/09/1974,8,17
+Industrial - Box Flat Mine Ipswich,Queensland,31/07/1972,31/07/1972,18,17
+Industrial - Collinsville Mine,Queensland,13/10/1954,13/10/1954,7,2
+Industrial - Balmain colliery,New South Wales,20/04/1945,,3,2
+Industrial - Balmain mining fall,New South Wales,17/03/1900,,5,1
+Industrial - HMAS Westralia (II),Western Australia,5/05/1998,5/05/1998,4,9
+Industrial - HMAS Tarakan Explosion,New South Wales,25/01/1950,25/01/1950,8,12
+Landslide - Thredbo,New South Wales,30/07/1997,30/07/1997,18,1
+Landslide - Gracetown,Western Australia,27/09/1996,28/09/1996,9,3
+Landslide - Adelaide Hills,South Australia,31/01/1928,31/01/1928,6,3
+Other Disasters- Cowra POW Attempted Mass Escape,New South Wales,5/08/1944,`,231,108
+Other Disasters - Wartime Bombing Raids,Northern Territory,19/02/1942,19/02/1942,243,400
+"Severe Storm - Thunderstorm Asthma, 2016",Victoria,21/11/2016,22/11/2016,9,8000
+Hail - South East Queensland,Queensland,24/01/2004,31/01/2004,1,3
+Hail - Sydney,New South Wales,14/04/1999,14/04/1999,1,50
+Severe Storm - Sydney and Blue Mountains ,New South Wales,20/11/1994,20/11/1994,2,2
+Severe Storm - Sydney,New South Wales,21/01/1991,21/01/1991,1,100
+Storm - Sydney Hailstorm,New South Wales,14/04/1999,14/04/1999,1,50
+Maritime/Coastal - Lake Illawarra,Tasmania,5/01/1975,5/01/1975,12,
+Maritime/Coastal - Iron Crown steamship Sinking,Victoria,4/06/1942,4/06/1942,37,5
+Maritime/Coastal - Sydney to Hobart Yacht Race ,Victoria,26/12/1998,30/12/1998,6,70
+Shipwreck - Ly-Ee-Moon,New South Wales,30/05/1886,30/05/1886,71,16
+Shipwreck - Ecliptic,Victoria,30/03/1874,30/03/1874,8,1
+Shipwreck - Alert,Victoria,28/12/1893,28/12/1893,15,1
+Shipwreck - Quetta ,Queensland,28/02/1890,28/02/1890,133,158
+Shipwreck - Tubal Cain,Victoria,26/08/1862,26/08/1862,12,1
+Shipwreck - Pandora ,Queensland,26/08/1791,26/08/1791,35,91
+Shipwreck - Thetis,Victoria,26/05/1848,26/05/1848,4,20
+Shipwreck - Bogong,Victoria,23/09/1896,23/09/1896,4,3
+Shipwreck - British Admiral,Victoria,23/05/1874,23/05/1874,79,9
+Shipwreck - Canmore,New South Wales,21/10/1854,21/10/1854,7,2
+Shipwreck - Moolgewanke,South Australia,21/07/1874,21/07/1874,3,1
+Shipwreck - Stirling Castle ,Queensland,21/05/1836,21/05/1836,10,8
+Shipwreck - Schah,Victoria,20/12/1837,20/12/1837,7,12
+Shipwreck - Cheviot,Victoria,19/10/1887,19/10/1887,35,24
+Shipwreck - Ellen Simpson,Victoria,17/05/1866,17/05/1866,9,1
+Shipwreck - Domain,Victoria,11/04/1846,11/04/1846,14,1
+Shipwreck - Elmgrove,Victoria,09/09/1876,09/09/1876,7,2
+Shipwreck - Bertha,Victoria,08/09/1870,08/09/1870,7,1
+Shipwreck - Circassian,Victoria,06/10/1864,06/10/1864,4,4
+Shipwreck - Admella,South Australia,06/08/1859,06/08/1859,89,24
+Shipwreck - Rainbow,New South Wales,02/06/1864,02/06/1864,7,2
+Shipwreck - Shark Ace 4,Victoria,12/05/1990,12/05/1990,3,1
+Shipwreck - Port Welshpool Ship Explosion,Victoria,22/03/1969,22/03/1969,3,20
+Shipwreck - Naval Collision off Jervis Bay,New South Wales,10/02/1964,10/02/1964,82,232
+Shipwreck - Macumba,Northern Territory,6/08/1943,6/08/1943,3,5
+Shipwreck - HMAS Kuttabul ,New South Wales,1/06/1942,1/06/1942,21,10
+Shipwreck - Pareora,South Australia,19/09/1919,19/09/1919,11,7
+Shipwreck - Edward Lombe,New South Wales,25/08/1834,,12,17
+Transport - Redfern Train Collision,New South Wales,31/10/1894,31/10/1894,14,27
+Transport - Cootamundra Train Derailment,New South Wales,25/01/1885,25/01/1885,7,20
+Transport - Kerang Train and Truck Collision,Victoria,5/06/2007,5/06/2007,11,14
+Transport – Sydney Ferry Accident,New South Wales,28/03/2007,28/03/2007,4,8
+Transport - Burnley Tunnel Fire ,Victoria,23/03/2007,23/03/2007,3,2
+Transport - Trawalla Train and Truck Collision,Victoria,28/04/2006,28/04/2006,2,18
+"Transport - Bundaberg Backpacker mini-bus accident, Queensland 2005",Queensland,10/09/2005,,3,8
+Transport -Mini Bus accident on Jamberoo Mountain Road,New South Wales,5/09/2005,5/09/2005,3,14
+Transport - Waterfall Train Crash,New South Wales,31/01/2003,31/01/2003,7,41
+"Transport - Salisbury - Train, Bus and Car Collision",South Australia,24/10/2002,24/10/2002,4,26
+Transport - Benalla Train Derailment,Victoria,13/10/2002,13/10/2002,3,1
+Transport - Wandandian bus crash,New South Wales,1/02/2001,1/02/2001,1,35
+Transport - Barossa Valley School Bus Crash,South Australia,29/01/2001,29/01/2001,1,26
+Transport - Glenbrook (Blue Mountains) Railway Accident,New South Wales,2/12/1999,2/12/1999,7,51
+"Transport - Gulf of Carpentaria Light Aircraft Crash, Queensland 1999",Queensland,24/11/1999,24/11/1999,6,0
+"Transport - Torres Strait plane crash, Queensland 1999",Queensland,16/01/1999,,3,1
+Transport - Albury Coach and Truck Collision,New South Wales,13/08/1998,13/08/1998,1,25
+Transport - Bookham Coach Semi-Trailer Collision,New South Wales,7/08/1998,7/08/1998,3,19
+Transport - Black Hawk Air Collision,Queensland,12/06/1996,12/06/1996,18,12
+Transport - Merredin Rail Collision,Western Australia,13/01/1996,13/01/1996,2,1
+Transport - Boondall (Brisbane) Bus Crash,Queensland,1/10/1994,1/10/1994,12,38
+Transport - Wangaratta Truck and Bus Collision,Victoria,1/11/1993,1/11/1993,9,35
+Transport - Mt Tamborine Bus Crash,Queensland,25/09/1990,25/09/1990,11,38
+Transport - Brooklyn NSW Train Collision ,New South Wales,6/05/1990,6/05/1990,6,93
+Transport - Clybucca Flat (near Kempsey) Bus Collision,New South Wales,22/12/1989,22/12/1989,35,41
+Transport - Cowper (near Grafton) Bus and Semi Trailer Collision,New South Wales,20/10/1989,20/10/1989,21,22
+Transport - Bundaberg Air Ambulance Crash ,Queensland,21/06/1987,21/06/1987,4,1
+Transport - Gordonvale/Cairns Bus Crash,Queensland,4/02/1987,4/02/1987,8,30
+Transport - Essendon Air ambulance Crash,Victoria,3/09/1986,3/09/1986,6,4
+"Transport - Essendon Melbourne, Light Aircraft Crash",Victoria,10/07/1978,10/07/1978,6,4
+Transport - Granville Rail Disaster,New South Wales,18/01/1977,18/01/1977,83,210
+"Transport - Tumut Ponds Bus crash, NSW 1973 ",New South Wales,1/09/1973,,18,21
+Wasleys train and bus crash,South Australia,12/04/1970,,17,45
+"Violet Town train collision, 1969",Victoria,7/02/1969,,9,117
+Transport - Southern Aurora,Victoria,7/02/1969,7/02/1969,9,40
+Transport - Bogantungan Railway Accident,Queensland,26/02/1960,26/02/1960,7,43
+Transport - Wallumbilla Rail Collision,Queensland,1/12/1956,1/12/1956,5,10
+Transport - Sydenham (Sydney) Train Collision,New South Wales,19/12/1953,19/12/1953,5,748
+Transport - Berala Rail Collision,New South Wales,7/05/1952,7/05/1952,10,140
+Transport - Spit Bridge Bus Crash,New South Wales,30/05/1949,30/05/1949,4,33
+Transport - Rocky Ponds Train Derailment,New South Wales,30/06/1948,30/06/1948,4,18
+Transport - Tamaree Train Crash,Queensland,18/10/1947,18/10/1947,6,15
+Transport - Camp Mountain (Dayboro) Train Derailment,Queensland,5/05/1947,5/05/1947,16,38
+Transport - Copley Rail Collision,South Australia,11/05/1944,11/05/1944,4,27
+Transport - Brooklyn Train and Bus Collision,New South Wales,20/01/1944,20/01/1944,17,5
+Transport - Murulla Train Accident ,New South Wales,13/09/1926,13/09/1926,27,38
+Transport - Aberdeen Bridge Collapse,New South Wales,10/06/1926,10/06/1926,4,39
+Transport - Traveston Train Derailment,Queensland,7/06/1925,7/06/1925,10,53
+Transport - Hurstville Rail Accident ,New South Wales,3/08/1920,3/08/1920,4,18
+Transport - Exeter Train Collision,New South Wales,16/03/1914,16/03/1914,14,20
+Transport - Richmond Rail Collision,Victoria,18/07/1910,18/07/1910,9,114
+Transport - Beaufort Train Derailment,Victoria,5/02/1910,5/02/1910,3,1
+Transport - Sunshine Rail Collision,Victoria,20/04/1908,20/04/1908,44,413
+Transport - Sydenham Train Derailment ,New South Wales,15/02/1901,15/02/1901,7,30
+Urban Fire - Quakers Hill Nursing Home,New South Wales,18/11/2011,18/11/2011,10,32
+Urban Fire - Slacks Creek House Fire,Queensland,24/08/2011,24/08/2011,11,2
+Urban Fire - Brisbane Boarding House ,Queensland,18/08/2002,18/08/2002,3,6
+Urban Fire - Dungog Hostel Fire,New South Wales,2/08/1991,2/08/1991,12,28
+Urban Fire - Noble Park Melbourne,Victoria,1/01/1991,1/01/1991,4,22
+"Urban Fire � Kings Cross, New South Wales 1989",New South Wales,17/09/1989,17/09/1989,6,18
+Urban Fire - Somers Hospital Fire,Victoria,9/09/1952,9/09/1952,5,26
