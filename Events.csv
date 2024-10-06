@@ -1,4 +1,4 @@
-Event_,Zone,Start_Date,End_Date,Fatalities,Injured
+Event,Zone,Start_Date,End_Date,Fatalities,Injured
 Bushfire - Victoria,Victoria,1/01/2006,,4,6
 "Bushfire - Black Saturday, Victoria",Victoria,7/02/2009,8/02/2009,173,414
 Bushfire - Great Divide Complex ,Victoria,1/12/2006,7/02/2007,1,1400
